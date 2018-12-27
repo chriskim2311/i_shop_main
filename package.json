@@ -1,0 +1,19 @@
+{
+  "name": "ishop",
+  "version": "1.0.0",
+  "description": "ecommerce demo site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewouatu/i_shop.git"
+  },
+  "author": "Andrew Ouatu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewouatu/i_shop/issues"
+  },
+  "homepage": "https://github.com/andrewouatu/i_shop#readme"
+}
