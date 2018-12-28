@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewouatu/i_shop.git"
+    "url": "git+https://github.com/chriskim2311/i_shop_main.git"
   },
-  "author": "Andrew Ouatu",
+  "author": "Chris Kim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andrewouatu/i_shop/issues"
+    "url": "https://github.com/chriskim2311/i_shop_main/issues"
   },
-  "homepage": "https://github.com/andrewouatu/i_shop#readme",
+  "homepage": "https://github.com/chriskim2311/i_shop#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "cors": "^2.8.5",
